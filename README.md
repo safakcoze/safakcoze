@@ -10,5 +10,7 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 • Proficient in utilizing various spatial data visualization tools, including ESRI ArcGIS, QGIS, and OSM, to enhance data interpretation and analysis capabilities.
 
+Top Skills: GIS / PYTHON / SQL / Tableau / Spatial Data Visualization
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/safakcoze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
