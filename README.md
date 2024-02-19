@@ -13,6 +13,3 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
 
-import folium
-
-m = folium.Map(location=(45.5236, -122.6750))
