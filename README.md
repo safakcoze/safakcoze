@@ -12,3 +12,6 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
+
+
+<iframe src="https://github.com/safakcoze/safakcoze/blob/main/github.html" width="800" height="600"></iframe>
