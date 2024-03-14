@@ -16,6 +16,7 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 - [Crime Data Distribution between 2010 - 2021 in London](https://github.com/safakcoze/Crime_Data_London)
 
 ### Spatial Data Analysis & Visualisation by GIS Applications
+- [20 mins Walking Distance to Macka Park](https://github.com/safakcoze/walking_distance)
 - [Reachable Istanbul in an hour by using Travel Time API](https://github.com/safakcoze/Istanbul_travel_time)
 - [Airbnb Listings in Istanbul, Turkey](https://github.com/safakcoze/Istanbul_Airbnb_listings)
   
