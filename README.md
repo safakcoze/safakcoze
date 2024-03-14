@@ -23,7 +23,4 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 ## Contact
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
 
-# My Leaflet Map Project
-
-Check out the interactive map [here](https://raw.githubusercontent.com/safakcoze/safakcoze/main/github_map.html).
 
