@@ -25,8 +25,5 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 # My Leaflet Map Project
 
-Check out the interactive map below:
-
-<iframe src="https://raw.githubusercontent.com/safakcoze/safakcoze/main/github_map.html" width="800" height="600"></iframe>
-
+Check out the interactive map [here](https://raw.githubusercontent.com/safakcoze/safakcoze/main/github_map.html).
 
