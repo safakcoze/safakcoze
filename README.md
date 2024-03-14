@@ -10,10 +10,14 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 • Proficient in utilizing various spatial data visualization tools, including ESRI ArcGIS, QGIS, and OSM, to enhance data interpretation and analysis capabilities.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
-
 ## Portfolio of Some Selected Projects:
   
-### Geospatial Data Analysis & Visualisation
+### Data Analysis & Science by Python
 - [Crime Data Distribution between 2010 - 2021 in London](https://github.com/safakcoze/Crime_Data_London)
+
+### Spatial Data Analysis & Visualisation by GIS Applications
+- [Reachable Istanbul in an hour by using Travel Time API](https://github.com/safakcoze/Istanbul_travel_time)
+- [Airbnb Listings in Istanbul, Turkey](https://github.com/safakcoze/Istanbul_Airbnb_listings)
+  
+## Contact
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
