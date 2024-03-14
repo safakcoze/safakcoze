@@ -13,3 +13,7 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/safakcoze)
 
+## Portfolio of Some Selected Projects:
+  
+### Geospatial Data Analysis & Visualisation
+- [Crime Data Distribution between 2010 - 2021 in London](https://github.com/safakcoze/Crime_Data_London)
