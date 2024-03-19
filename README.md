@@ -13,8 +13,8 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 ## Portfolio of Some Selected Projects:
   
 ### Data Analysis & Science by Python
-- [Motor Vehicle Crashes in New York](https://github.com/safakcoze/motor_crashes_nyc)
-- [Crime Data Distribution between 2010 - 2021 in London](https://github.com/safakcoze/Crime_Data_London)
+- [Motor Vehicle Crashes from 2012 to 2023 in New York](https://github.com/safakcoze/motor_crashes_nyc)
+- [Crime Data Distribution from 2010 to 2021 in London](https://github.com/safakcoze/Crime_Data_London)
 
 ### Spatial Data Analysis & Visualisation by GIS Applications
 - [20 mins Walking Distance to Macka Park](https://github.com/safakcoze/walking_distance)
