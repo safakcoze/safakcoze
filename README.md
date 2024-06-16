@@ -6,7 +6,7 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 
 • Wide range of analytical skills, including expertise in data preparation, wrangling, and exploratory data analysis (EDA) using Python (Pandas, Xarray, GeoPandas, NumPy, SciPy), SQL, and Orange Data Mining.
 
-• Skilled in various data visualization tools, including Python (Matplotlib, Seaborn, Folium, Plotly, and Kepler) and Tableau.
+• Skilled in various data visualization tools, including Python (Matplotlib, Seaborn, Folium, Plotly, Leafmap, and Kepler) and Tableau.
 
 • Proficient in utilizing various spatial data visualization tools, including ESRI ArcGIS, QGIS, and OSM, to enhance data interpretation and analysis capabilities.
 
