@@ -13,6 +13,7 @@ Currently pursuing an MSc. in Geospatial Technology and Data Science at Universi
 ## Portfolio of Some Selected Projects:
   
 ### Data Analysis & Science by Python
+- [Walkability Index Web Application in Münster, Germany](https://github.com/safakcoze/MS-Walkability-Index) 
 - [Motor Vehicle Crashes from 2012 to 2023 in New York](https://github.com/safakcoze/motor_crashes_nyc)
 - [Crime Data Distribution from 2010 to 2021 in London](https://github.com/safakcoze/Crime_Data_London)
 
